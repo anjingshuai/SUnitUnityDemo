@@ -1,3 +1,25 @@
+### 2.1.1.0
+
+2020-08-11
+
+FEATURE:
+- 增加[小视频推广位](https://github.com/sunitsdk/SUnitUnityDemo/wiki/%E6%8E%A8%E5%B9%BF%E6%A8%A1%E5%9D%97), 由CP自主调用
+- 新增对外暴露的云控接口, 调用方可以通过 SHAREitAggregation#getXXConfig 来获取对应的云控值, 云控值的key-value需要由我方运营配置
+- 优化了数据埋点
+
+
+### 2.0.1.0
+
+2020-07-28
+
+FEATURE:
+- 升级支付SDK版本
+- 优化广告加载模型, 提升广告加载效率
+- 优化内置下载器逻辑, 有效提升分发效率
+
+CHANGES:
+1. 需关注 [NoClassDefFoundError com.ushareit.aggregationsdk.InitializeProvider](https://github.com/sunitsdk/SUnitDemo/wiki/SDK%E5%BC%95%E5%85%A5#11-%E5%A2%9E%E5%8A%A0-multidexkeep-%E9%85%8D%E7%BD%AE)
+
 ### 1.8.1.3
 
 2020-06-19
