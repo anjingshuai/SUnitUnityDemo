@@ -1,7 +1,7 @@
 # SUnit SDK(Unity)  
 # NOTE:The Unity demo of unit sdk is for unity version 2019.3 or above
-* Modified: 2020-06-19
-* SDK Version: 1.8.1.3
+* Modified: 2020-07-30
+* SDK Version: 2.1.1.0
 * [ChangeLog](https://github.com/sunitsdk/SUnitUnityDemo/blob/master/CHANGELOG.md)
 
 ## Overview
